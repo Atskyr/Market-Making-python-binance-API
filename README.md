@@ -1,1 +1,3 @@
 # Market-Making-python-binance-API
+
+A market making algorithm built with Python to enhance your trading strategy. This algorithm scans the market for extreme changes in volume and delta and leverages mean reversion logic to place orders. The algorithm continuously monitors the market and adjusts its order placement in response to changes in volume and delta, ensuring a profitable trading strategy. With this algorithm, you can take advantage of market inefficiencies and optimize your trading strategy with a mean reversion approach provided you could cover the spreads and have decent fill rates.  :X
